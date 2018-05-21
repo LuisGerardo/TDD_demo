@@ -1,0 +1,17 @@
+{
+  "name": "tdd_demo",
+  "version": "1.0.0",
+  "description": "test driven development demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Luis Pena",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^22.4.4"
+  }
+}
